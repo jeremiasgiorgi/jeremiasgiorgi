@@ -22,6 +22,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop---?logo=adobephotoshop&color=black)
 ![Lightroom](https://img.shields.io/badge/Lightroom---?logo=adobelightroomclassic&color=black)
 ![Blender](https://img.shields.io/badge/Blender---?logo=blender&color=black)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio---?logo=obsstudio&color=%23302E31)
 ![Davinci Resolve](https://img.shields.io/badge/DavinciResolve---?logo=davinciresolve&color=%23233A51)
 
 </span>
