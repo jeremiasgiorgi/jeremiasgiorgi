@@ -26,3 +26,5 @@
 ![Davinci Resolve](https://img.shields.io/badge/DavinciResolve---?logo=davinciresolve&color=%23233A51)
 
 </span>
+<br/>
+<br/>
