@@ -8,6 +8,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.Js](https://img.shields.io/badge/Next.js%20---?logo=nextdotjs&color=%23000)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/Python%20---?logo=python&color=%23ffde58)
