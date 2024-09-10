@@ -18,7 +18,7 @@
 </span>
 <br/>
 <br/>
-<h2 align="center">Art & Design</h2>
+<h2 align="center">Soft Skills</h2>
 <span align="center">
   
 ![Photoshop](https://img.shields.io/badge/Photoshop---?logo=adobephotoshop&color=black)
